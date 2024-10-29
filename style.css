@@ -1,0 +1,25 @@
+.container {
+    background-color: fffaff;
+    text-align: center;
+  
+    height: 800px
+}
+
+.img1 > img { border:2px solid black; 
+  
+ }
+
+ .img2 > img { border:2px solid black; 
+  
+ }
+ hr {
+    border: dotted #d1d9d9 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+  }
+  .bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+    background-size: 180% 180%;
+  }
